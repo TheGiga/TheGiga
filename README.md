@@ -6,4 +6,7 @@ Working on [osu!stats](https://github.com/TheGiga/osu-stats) discord bot.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGiga&langs_count=8&theme=radical&hide=css&layout=compact)
 
-![WakaBaka](https://github-readme-stats.vercel.app/api/wakatime?username=TheGiga)
+<details>
+  <summary>Wakatime stats</summary>
+  ![WakaBaka](https://github-readme-stats.vercel.app/api/wakatime?username=TheGiga)
+</details>
