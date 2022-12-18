@@ -1,7 +1,7 @@
 
 **Welcome to my profile!**
 
-My nickname is `gigabit`, i also go by `gigalegit`, `TheGiga` and just `giga`. Not `gigaBYTE`. *thanks*
+I go by `gigabit`, aka `gigalegit`.
 
 I am software developer from Ukraine, have experience with discord api `discord.py/pycord` and Python in general.
 
