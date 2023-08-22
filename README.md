@@ -3,7 +3,7 @@
 
 I go by `gigabit`, aka `gigalegit`.
 
-I am software developer from Ukraine, have experience with discord api `discord.py/pycord` and Python in general.
+Hi, i do stuff with python, have experience with discord api `discord.py/pycord` and stuff
 
 ## Discord Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/352062534469156864)](https://discord.com/users/352062534469156864)
